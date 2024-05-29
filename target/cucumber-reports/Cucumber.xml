@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.127" tests="6" skipped="0" failures="0" errors="0">
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.1" time="8.89">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform POST operation.................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.2" time="1.015">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform PUT operation..................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.3" time="1.029">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform PATCH operation................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.4" time="1.023">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform POST operation.................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.5" time="0.839">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform POST operation.................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test All ReqRes APIS" name="&lt;TCName&gt; - Example #1.6" time="0.856">
+<system-out><![CDATA[
+Given url...................................................................passed
+And construct dynamic request...............................................passed
+When perform PATCH operation................................................passed
+Then verify status code.....................................................passed
+And validate response.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
